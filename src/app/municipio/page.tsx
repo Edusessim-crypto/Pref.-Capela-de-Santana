@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Breadcrumbs from "@/components/layout/Breadcrumbs";
-import BrasaoPlaceholder from "@/components/shared/BrasaoPlaceholder";
+import Brasao from "@/components/shared/Brasao";
 import { MUNICIPIO } from "@/lib/constants";
 
 export const metadata: Metadata = {
@@ -99,7 +99,7 @@ export default function MunicipioPage() {
         </h2>
         <div className="mt-4 grid grid-cols-1 gap-5 sm:grid-cols-2">
           <div className="flex flex-col items-start gap-4 rounded-xl border border-neutral-200 bg-neutral-0 p-6 shadow-soft">
-            <BrasaoPlaceholder size={72} />
+            <Brasao size={72} />
             <div>
               <h3 className="font-semibold text-neutral-900">Brasão do Município</h3>
               <p className="mt-1 text-sm text-neutral-600">

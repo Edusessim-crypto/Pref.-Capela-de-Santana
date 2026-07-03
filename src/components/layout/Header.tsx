@@ -5,7 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Menu, Search, ShieldCheck } from "lucide-react";
 import Drawer from "@/components/layout/Drawer";
-import BrasaoPlaceholder from "@/components/shared/BrasaoPlaceholder";
+import Brasao from "@/components/shared/Brasao";
 import { MUNICIPIO } from "@/lib/constants";
 
 type NavItem = {
@@ -41,7 +41,7 @@ export default function Header() {
           href="/"
           className="flex shrink-0 items-center gap-2 rounded-md py-1 focus-visible:outline-3"
         >
-          <BrasaoPlaceholder size={36} className="shrink-0" />
+          <Brasao size={36} className="shrink-0" />
           <span className="text-sm font-semibold leading-tight whitespace-nowrap text-primary-900 sm:text-base">
             Prefeitura de
             <br className="sm:hidden" /> {MUNICIPIO.nome}

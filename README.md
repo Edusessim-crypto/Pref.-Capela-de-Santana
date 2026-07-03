@@ -41,7 +41,7 @@ src/
     transparencia/      # Portal da Transparência (rota /transparencia/**)
   components/
     layout/             # Header, Footer, AccessibilityBar, Drawer, Breadcrumbs
-    shared/              # ServiceCard, NewsCard, Badge, SearchBar, Pagination, WhatsAppButton, BrasaoPlaceholder
+    shared/              # ServiceCard, NewsCard, Badge, SearchBar, Pagination, WhatsAppButton, Brasao
     transparencia/       # TransparencyTable, FilterBar, ObrasMap
   data/                 # JSON mock — um arquivo por domínio
   services/             # camada de acesso a dados (assinatura final da API real)
@@ -117,8 +117,8 @@ protocolo (`GET /api/esic/:protocolo`, `GET /api/ouvidoria/:protocolo`).
 
 ## O que precisa de dado/integração real antes de produção
 
-- [ ] Substituir o brasão placeholder (`src/components/shared/BrasaoPlaceholder.tsx`)
-      pelo brasão oficial do município (arquivo em `public/brasao/`).
+- [x] Brasão oficial do município aplicado (`public/brasao/brasao-capela-de-santana.png`,
+      componente `src/components/shared/Brasao.tsx`).
 - [ ] Substituir o número de WhatsApp placeholder em `src/lib/constants.ts`
       (`WHATSAPP_NUMERO`) pelo número oficial da Prefeitura.
 - [ ] Trocar todos os arquivos em `src/data/*.json` por integração real com os

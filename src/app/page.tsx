@@ -4,7 +4,7 @@ import Link from "next/link";
 import { ArrowRight, CloudSun, LandPlot, ScrollText, Sparkles } from "lucide-react";
 import ServiceCard from "@/components/shared/ServiceCard";
 import NewsCard from "@/components/shared/NewsCard";
-import BrasaoPlaceholder from "@/components/shared/BrasaoPlaceholder";
+import Brasao from "@/components/shared/Brasao";
 import { getServicos } from "@/services/servicos.service";
 import { getNoticias } from "@/services/noticias.service";
 
@@ -35,7 +35,7 @@ export default async function Home() {
         />
         <div className="relative mx-auto flex max-w-7xl flex-col gap-10 px-4 py-14 sm:px-6 sm:py-20 lg:flex-row lg:items-center lg:px-8 lg:py-24">
           <div className="flex flex-1 flex-col gap-6">
-            <BrasaoPlaceholder size={56} className="drop-shadow" />
+            <Brasao size={56} className="drop-shadow" />
             <h1 className="font-serif text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
               Prefeitura Municipal de Capela de Santana
             </h1>
