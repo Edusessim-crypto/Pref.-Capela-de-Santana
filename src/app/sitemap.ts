@@ -3,6 +3,8 @@ import { SITE_URL } from "@/lib/constants";
 import { getServicos } from "@/services/servicos.service";
 import { getNoticias } from "@/services/noticias.service";
 
+export const dynamic = "force-static";
+
 const STATIC_ROUTES = [
   "",
   "/municipio",
