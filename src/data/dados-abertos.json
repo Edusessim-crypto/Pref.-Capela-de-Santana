@@ -1,0 +1,112 @@
+[
+  {
+    "id": "dad-001",
+    "titulo": "Despesas Empenhadas 2025",
+    "descricao": "Base de dados com todas as despesas empenhadas pelo município no exercício de 2025, por órgão, função e credor.",
+    "categoria": "Finanças",
+    "formato": "CSV",
+    "ultimaAtualizacao": "2026-06-30T00:00:00-03:00",
+    "tamanhoAproximado": "1.2 MB",
+    "arquivoUrl": "/documentos/dados-abertos/despesas-empenhadas-2025.csv",
+    "licenca": "Dados Abertos - Licença ODbL"
+  },
+  {
+    "id": "dad-002",
+    "titulo": "Receitas Arrecadadas 2025",
+    "descricao": "Base de dados com os valores previstos e arrecadados de receitas municipais no exercício de 2025.",
+    "categoria": "Finanças",
+    "formato": "CSV",
+    "ultimaAtualizacao": "2026-06-30T00:00:00-03:00",
+    "tamanhoAproximado": "480 KB",
+    "arquivoUrl": "/documentos/dados-abertos/receitas-arrecadadas-2025.csv",
+    "licenca": "Dados Abertos - Licença ODbL"
+  },
+  {
+    "id": "dad-003",
+    "titulo": "Folha de Pagamento - Servidores Públicos",
+    "descricao": "Relação de servidores públicos municipais com cargo, lotação, vínculo e remuneração, atualizada mensalmente.",
+    "categoria": "Recursos Humanos",
+    "formato": "XLSX",
+    "ultimaAtualizacao": "2026-06-30T00:00:00-03:00",
+    "tamanhoAproximado": "310 KB",
+    "arquivoUrl": "/documentos/dados-abertos/folha-pagamento-servidores.xlsx",
+    "licenca": "Dados Abertos - Licença ODbL"
+  },
+  {
+    "id": "dad-004",
+    "titulo": "Frota Municipal",
+    "descricao": "Cadastro de veículos e máquinas pertencentes ao patrimônio municipal, com estado de conservação e localização.",
+    "categoria": "Patrimônio",
+    "formato": "CSV",
+    "ultimaAtualizacao": "2026-05-15T00:00:00-03:00",
+    "tamanhoAproximado": "95 KB",
+    "arquivoUrl": "/documentos/dados-abertos/frota-municipal.csv",
+    "licenca": "Domínio Público"
+  },
+  {
+    "id": "dad-005",
+    "titulo": "Contratos Vigentes",
+    "descricao": "Relação de contratos administrativos vigentes, com objeto, contratado, valor e vigência.",
+    "categoria": "Licitações e Contratos",
+    "formato": "JSON",
+    "ultimaAtualizacao": "2026-06-20T00:00:00-03:00",
+    "tamanhoAproximado": "160 KB",
+    "arquivoUrl": "/documentos/dados-abertos/contratos-vigentes.json",
+    "licenca": "Dados Abertos - Licença ODbL"
+  },
+  {
+    "id": "dad-006",
+    "titulo": "Licitações Publicadas",
+    "descricao": "Base de dados de processos licitatórios publicados pelo município, com modalidade, objeto e situação.",
+    "categoria": "Licitações e Contratos",
+    "formato": "CSV",
+    "ultimaAtualizacao": "2026-06-20T00:00:00-03:00",
+    "tamanhoAproximado": "210 KB",
+    "arquivoUrl": "/documentos/dados-abertos/licitacoes-publicadas.csv",
+    "licenca": "Dados Abertos - Licença ODbL"
+  },
+  {
+    "id": "dad-007",
+    "titulo": "Obras Públicas Georreferenciadas",
+    "descricao": "Conjunto de dados com localização geográfica, status e valores das obras públicas em andamento e concluídas.",
+    "categoria": "Obras Públicas",
+    "formato": "JSON",
+    "ultimaAtualizacao": "2026-06-10T00:00:00-03:00",
+    "tamanhoAproximado": "75 KB",
+    "arquivoUrl": "/documentos/dados-abertos/obras-publicas-georreferenciadas.json",
+    "licenca": "Domínio Público"
+  },
+  {
+    "id": "dad-008",
+    "titulo": "Matrículas na Rede Municipal de Ensino",
+    "descricao": "Quantitativo de matrículas por escola, etapa de ensino e turno na rede municipal de educação.",
+    "categoria": "Educação",
+    "formato": "XLSX",
+    "ultimaAtualizacao": "2026-03-01T00:00:00-03:00",
+    "tamanhoAproximado": "140 KB",
+    "arquivoUrl": "/documentos/dados-abertos/matriculas-rede-municipal.xlsx",
+    "licenca": "Dados Abertos - Licença ODbL"
+  },
+  {
+    "id": "dad-009",
+    "titulo": "Bens Patrimoniais Móveis e Imóveis",
+    "descricao": "Cadastro geral de bens patrimoniais móveis e imóveis do município, com número de tombamento e valor de aquisição.",
+    "categoria": "Patrimônio",
+    "formato": "CSV",
+    "ultimaAtualizacao": "2026-04-18T00:00:00-03:00",
+    "tamanhoAproximado": "125 KB",
+    "arquivoUrl": "/documentos/dados-abertos/bens-patrimoniais.csv",
+    "licenca": "Domínio Público"
+  },
+  {
+    "id": "dad-010",
+    "titulo": "Convênios e Parcerias Vigentes",
+    "descricao": "Relação de convênios, termos de fomento e de colaboração firmados pelo município com entidades e outros entes.",
+    "categoria": "Convênios e Parcerias",
+    "formato": "CSV",
+    "ultimaAtualizacao": "2026-05-30T00:00:00-03:00",
+    "tamanhoAproximado": "68 KB",
+    "arquivoUrl": "/documentos/dados-abertos/convenios-parcerias-vigentes.csv",
+    "licenca": "Dados Abertos - Licença ODbL"
+  }
+]

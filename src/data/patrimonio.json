@@ -1,0 +1,202 @@
+[
+  {
+    "id": "pat-001",
+    "descricao": "Ônibus escolar Mercedes-Benz, 44 lugares",
+    "categoria": "Veículos",
+    "numeroTombamento": "VE-2019-014",
+    "localizacao": "Secretaria de Educação - Garagem Municipal",
+    "valorAquisicao": 285000,
+    "dataAquisicao": "2019-03-12",
+    "estadoConservacao": "Bom"
+  },
+  {
+    "id": "pat-002",
+    "descricao": "Caminhão basculante 6m³",
+    "categoria": "Veículos",
+    "numeroTombamento": "VE-2018-007",
+    "localizacao": "Secretaria de Obras e Viação - Pátio de Máquinas",
+    "valorAquisicao": 320000,
+    "dataAquisicao": "2018-08-20",
+    "estadoConservacao": "Regular"
+  },
+  {
+    "id": "pat-003",
+    "descricao": "Retroescavadeira sobre rodas",
+    "categoria": "Máquinas e Equipamentos",
+    "numeroTombamento": "MA-2020-003",
+    "localizacao": "Secretaria de Obras e Viação - Pátio de Máquinas",
+    "valorAquisicao": 410000,
+    "dataAquisicao": "2020-05-15",
+    "estadoConservacao": "Bom"
+  },
+  {
+    "id": "pat-004",
+    "descricao": "Patrola motoniveladora",
+    "categoria": "Máquinas e Equipamentos",
+    "numeroTombamento": "MA-2016-002",
+    "localizacao": "Secretaria de Obras e Viação - Pátio de Máquinas",
+    "valorAquisicao": 550000,
+    "dataAquisicao": "2016-11-02",
+    "estadoConservacao": "Regular"
+  },
+  {
+    "id": "pat-005",
+    "descricao": "Ambulância de suporte básico",
+    "categoria": "Veículos",
+    "numeroTombamento": "VE-2022-009",
+    "localizacao": "Secretaria de Saúde - Unidade Central",
+    "valorAquisicao": 195000,
+    "dataAquisicao": "2022-02-18",
+    "estadoConservacao": "Novo"
+  },
+  {
+    "id": "pat-006",
+    "descricao": "Prédio da Sede da Prefeitura Municipal",
+    "categoria": "Imóveis",
+    "numeroTombamento": "IM-1998-001",
+    "localizacao": "Rua General Osório, 150, Centro",
+    "valorAquisicao": 1850000,
+    "dataAquisicao": "1998-01-10",
+    "estadoConservacao": "Bom"
+  },
+  {
+    "id": "pat-007",
+    "descricao": "Prédio da Escola Municipal de Ensino Fundamental Vale Verde",
+    "categoria": "Imóveis",
+    "numeroTombamento": "IM-2005-004",
+    "localizacao": "Rua das Acácias, 88, Bairro Vale Verde",
+    "valorAquisicao": 980000,
+    "dataAquisicao": "2005-07-22",
+    "estadoConservacao": "Regular"
+  },
+  {
+    "id": "pat-008",
+    "descricao": "Unidade Básica de Saúde do Bairro São José",
+    "categoria": "Imóveis",
+    "numeroTombamento": "IM-2012-006",
+    "localizacao": "Rua São José, 210, Bairro São José",
+    "valorAquisicao": 620000,
+    "dataAquisicao": "2012-09-30",
+    "estadoConservacao": "Bom"
+  },
+  {
+    "id": "pat-009",
+    "descricao": "Servidor de rede e infraestrutura de TI",
+    "categoria": "Equipamentos de Informática",
+    "numeroTombamento": "TI-2023-011",
+    "localizacao": "Secretaria de Administração - Setor de TI",
+    "valorAquisicao": 42000,
+    "dataAquisicao": "2023-04-05",
+    "estadoConservacao": "Novo"
+  },
+  {
+    "id": "pat-010",
+    "descricao": "Computadores desktop para laboratório de informática escolar (20 unidades)",
+    "categoria": "Equipamentos de Informática",
+    "numeroTombamento": "TI-2021-018",
+    "localizacao": "Secretaria de Educação - Escola Municipal Centro",
+    "valorAquisicao": 68000,
+    "dataAquisicao": "2021-06-14",
+    "estadoConservacao": "Bom"
+  },
+  {
+    "id": "pat-011",
+    "descricao": "Mobiliário escolar - conjuntos de mesa e cadeira (150 unidades)",
+    "categoria": "Mobiliário",
+    "numeroTombamento": "MO-2020-025",
+    "localizacao": "Secretaria de Educação - Almoxarifado Central",
+    "valorAquisicao": 54000,
+    "dataAquisicao": "2020-02-11",
+    "estadoConservacao": "Regular"
+  },
+  {
+    "id": "pat-012",
+    "descricao": "Cadeiras odontológicas (3 unidades)",
+    "categoria": "Equipamentos Médicos",
+    "numeroTombamento": "EQ-2019-030",
+    "localizacao": "Secretaria de Saúde - Unidade Central",
+    "valorAquisicao": 75000,
+    "dataAquisicao": "2019-10-08",
+    "estadoConservacao": "Bom"
+  },
+  {
+    "id": "pat-013",
+    "descricao": "Trator agrícola com implementos",
+    "categoria": "Máquinas e Equipamentos",
+    "numeroTombamento": "MA-2017-005",
+    "localizacao": "Secretaria de Agricultura e Meio Ambiente - Pátio Rural",
+    "valorAquisicao": 175000,
+    "dataAquisicao": "2017-04-25",
+    "estadoConservacao": "Regular"
+  },
+  {
+    "id": "pat-014",
+    "descricao": "Veículo utilitário para visitas domiciliares do CRAS",
+    "categoria": "Veículos",
+    "numeroTombamento": "VE-2021-016",
+    "localizacao": "Secretaria de Assistência Social - CRAS Sede",
+    "valorAquisicao": 98000,
+    "dataAquisicao": "2021-08-03",
+    "estadoConservacao": "Bom"
+  },
+  {
+    "id": "pat-015",
+    "descricao": "Ginásio de Esportes Municipal",
+    "categoria": "Imóveis",
+    "numeroTombamento": "IM-2010-005",
+    "localizacao": "Rua dos Esportes, 55, Centro",
+    "valorAquisicao": 1450000,
+    "dataAquisicao": "2010-03-19",
+    "estadoConservacao": "Regular"
+  },
+  {
+    "id": "pat-016",
+    "descricao": "Biblioteca Pública Municipal - acervo e mobiliário",
+    "categoria": "Mobiliário",
+    "numeroTombamento": "MO-2015-009",
+    "localizacao": "Praça Cel. Cristóvão Pereira, 40, Centro",
+    "valorAquisicao": 38000,
+    "dataAquisicao": "2015-05-27",
+    "estadoConservacao": "Regular"
+  },
+  {
+    "id": "pat-017",
+    "descricao": "Caminhão compactador de lixo",
+    "categoria": "Veículos",
+    "numeroTombamento": "VE-2020-020",
+    "localizacao": "Secretaria de Agricultura e Meio Ambiente - Pátio de Coleta",
+    "valorAquisicao": 385000,
+    "dataAquisicao": "2020-09-14",
+    "estadoConservacao": "Bom"
+  },
+  {
+    "id": "pat-018",
+    "descricao": "Grupo gerador de energia para prédios públicos",
+    "categoria": "Máquinas e Equipamentos",
+    "numeroTombamento": "MA-2014-001",
+    "localizacao": "Secretaria de Administração - Prédio Sede",
+    "valorAquisicao": 62000,
+    "dataAquisicao": "2014-12-01",
+    "estadoConservacao": "Ruim"
+  },
+  {
+    "id": "pat-019",
+    "descricao": "Van adaptada para transporte de pessoas com deficiência",
+    "categoria": "Veículos",
+    "numeroTombamento": "VE-2023-022",
+    "localizacao": "Secretaria de Saúde - Unidade Central",
+    "valorAquisicao": 165000,
+    "dataAquisicao": "2023-11-27",
+    "estadoConservacao": "Novo"
+  },
+  {
+    "id": "pat-020",
+    "descricao": "Equipamento de som e iluminação para eventos públicos",
+    "categoria": "Equipamentos",
+    "numeroTombamento": "EQ-2022-014",
+    "localizacao": "Secretaria de Cultura, Esporte e Turismo - Almoxarifado",
+    "valorAquisicao": 47000,
+    "dataAquisicao": "2022-06-09",
+    "estadoConservacao": "Bom"
+  }
+]

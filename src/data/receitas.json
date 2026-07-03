@@ -1,0 +1,602 @@
+[
+  {
+    "id": "rec-001",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Receitas Tributárias",
+    "fonte": "IPTU",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 189000,
+    "valorArrecadado": 200237.77
+  },
+  {
+    "id": "rec-002",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Receitas Tributárias",
+    "fonte": "IPTU",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 180000,
+    "valorArrecadado": 188491.11
+  },
+  {
+    "id": "rec-003",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Receitas Tributárias",
+    "fonte": "IPTU",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 180000,
+    "valorArrecadado": 193071.25
+  },
+  {
+    "id": "rec-004",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ISS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 231000,
+    "valorArrecadado": 239910.25
+  },
+  {
+    "id": "rec-005",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ISS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 220000,
+    "valorArrecadado": 220252.42
+  },
+  {
+    "id": "rec-006",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ISS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 220000,
+    "valorArrecadado": 226553.15
+  },
+  {
+    "id": "rec-007",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ITBI",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 63000,
+    "valorArrecadado": 63457.97
+  },
+  {
+    "id": "rec-008",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ITBI",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 60000,
+    "valorArrecadado": 54582.31
+  },
+  {
+    "id": "rec-009",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ITBI",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 60000,
+    "valorArrecadado": 61592.36
+  },
+  {
+    "id": "rec-010",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Receitas Tributárias",
+    "fonte": "Taxas de Licenciamento",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 36750,
+    "valorArrecadado": 38240.19
+  },
+  {
+    "id": "rec-011",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Receitas Tributárias",
+    "fonte": "Taxas de Licenciamento",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 35000,
+    "valorArrecadado": 35974.63
+  },
+  {
+    "id": "rec-012",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Receitas Tributárias",
+    "fonte": "Taxas de Licenciamento",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 35000,
+    "valorArrecadado": 33525.63
+  },
+  {
+    "id": "rec-013",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Transferências Correntes",
+    "fonte": "FPM",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 997500,
+    "valorArrecadado": 1030829.28
+  },
+  {
+    "id": "rec-014",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Transferências Correntes",
+    "fonte": "FPM",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 950000,
+    "valorArrecadado": 1017042.44
+  },
+  {
+    "id": "rec-015",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Transferências Correntes",
+    "fonte": "FPM",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 950000,
+    "valorArrecadado": 1024854.28
+  },
+  {
+    "id": "rec-016",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Transferências Correntes",
+    "fonte": "ICMS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 819000,
+    "valorArrecadado": 868843.99
+  },
+  {
+    "id": "rec-017",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Transferências Correntes",
+    "fonte": "ICMS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 780000,
+    "valorArrecadado": 727645.51
+  },
+  {
+    "id": "rec-018",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Transferências Correntes",
+    "fonte": "ICMS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 780000,
+    "valorArrecadado": 720951.11
+  },
+  {
+    "id": "rec-019",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Transferências Correntes",
+    "fonte": "FUNDEB",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 640500,
+    "valorArrecadado": 651958.33
+  },
+  {
+    "id": "rec-020",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Transferências Correntes",
+    "fonte": "FUNDEB",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 610000,
+    "valorArrecadado": 640359.74
+  },
+  {
+    "id": "rec-021",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Transferências Correntes",
+    "fonte": "FUNDEB",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 610000,
+    "valorArrecadado": 566922.99
+  },
+  {
+    "id": "rec-022",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Transferências Correntes",
+    "fonte": "SUS - Bloco de Custeio",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 357000,
+    "valorArrecadado": 349682.6
+  },
+  {
+    "id": "rec-023",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Transferências Correntes",
+    "fonte": "SUS - Bloco de Custeio",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 340000,
+    "valorArrecadado": 325123.16
+  },
+  {
+    "id": "rec-024",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Transferências Correntes",
+    "fonte": "SUS - Bloco de Custeio",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 340000,
+    "valorArrecadado": 336277.31
+  },
+  {
+    "id": "rec-025",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição para Custeio da Iluminação Pública",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 94500,
+    "valorArrecadado": 96456.14
+  },
+  {
+    "id": "rec-026",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição para Custeio da Iluminação Pública",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 90000,
+    "valorArrecadado": 81657.22
+  },
+  {
+    "id": "rec-027",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição para Custeio da Iluminação Pública",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 90000,
+    "valorArrecadado": 89847.29
+  },
+  {
+    "id": "rec-028",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição Previdenciária",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 157500,
+    "valorArrecadado": 163245.59
+  },
+  {
+    "id": "rec-029",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição Previdenciária",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 150000,
+    "valorArrecadado": 146691.55
+  },
+  {
+    "id": "rec-030",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição Previdenciária",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 150000,
+    "valorArrecadado": 154820.83
+  },
+  {
+    "id": "rec-031",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Aluguéis de Imóveis Públicos",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 12600,
+    "valorArrecadado": 11615.23
+  },
+  {
+    "id": "rec-032",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Aluguéis de Imóveis Públicos",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 12000,
+    "valorArrecadado": 12758.02
+  },
+  {
+    "id": "rec-033",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Aluguéis de Imóveis Públicos",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 12000,
+    "valorArrecadado": 11826.69
+  },
+  {
+    "id": "rec-034",
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Rendimentos de Aplicação Financeira",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 29400,
+    "valorArrecadado": 27394.63
+  },
+  {
+    "id": "rec-035",
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Rendimentos de Aplicação Financeira",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 28000,
+    "valorArrecadado": 29623.33
+  },
+  {
+    "id": "rec-036",
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Rendimentos de Aplicação Financeira",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 28000,
+    "valorArrecadado": 26139.69
+  },
+  {
+    "id": "rec-037",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Receitas Tributárias",
+    "fonte": "IPTU",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 200340,
+    "valorArrecadado": 192590.89
+  },
+  {
+    "id": "rec-038",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Receitas Tributárias",
+    "fonte": "IPTU",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 190800,
+    "valorArrecadado": 197929.68
+  },
+  {
+    "id": "rec-039",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ISS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 244860,
+    "valorArrecadado": 232897.57
+  },
+  {
+    "id": "rec-040",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ISS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 233200,
+    "valorArrecadado": 211147.13
+  },
+  {
+    "id": "rec-041",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ITBI",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 66780,
+    "valorArrecadado": 71878.11
+  },
+  {
+    "id": "rec-042",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Receitas Tributárias",
+    "fonte": "ITBI",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 63600,
+    "valorArrecadado": 59358.82
+  },
+  {
+    "id": "rec-043",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Receitas Tributárias",
+    "fonte": "Taxas de Licenciamento",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 38955,
+    "valorArrecadado": 39700.22
+  },
+  {
+    "id": "rec-044",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Receitas Tributárias",
+    "fonte": "Taxas de Licenciamento",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 37100,
+    "valorArrecadado": 39693.28
+  },
+  {
+    "id": "rec-045",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Transferências Correntes",
+    "fonte": "FPM",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 1057350,
+    "valorArrecadado": 1009840.23
+  },
+  {
+    "id": "rec-046",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Transferências Correntes",
+    "fonte": "FPM",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 1007000,
+    "valorArrecadado": 1024532.37
+  },
+  {
+    "id": "rec-047",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Transferências Correntes",
+    "fonte": "ICMS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 868140,
+    "valorArrecadado": 792647.32
+  },
+  {
+    "id": "rec-048",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Transferências Correntes",
+    "fonte": "ICMS",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 826800,
+    "valorArrecadado": 753547.82
+  },
+  {
+    "id": "rec-049",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Transferências Correntes",
+    "fonte": "FUNDEB",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 678930,
+    "valorArrecadado": 662142.72
+  },
+  {
+    "id": "rec-050",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Transferências Correntes",
+    "fonte": "FUNDEB",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 646600,
+    "valorArrecadado": 672958.93
+  },
+  {
+    "id": "rec-051",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Transferências Correntes",
+    "fonte": "SUS - Bloco de Custeio",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 378420,
+    "valorArrecadado": 400111.7
+  },
+  {
+    "id": "rec-052",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Transferências Correntes",
+    "fonte": "SUS - Bloco de Custeio",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 360400,
+    "valorArrecadado": 348766.53
+  },
+  {
+    "id": "rec-053",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição para Custeio da Iluminação Pública",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 100170,
+    "valorArrecadado": 98975.3
+  },
+  {
+    "id": "rec-054",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição para Custeio da Iluminação Pública",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 95400,
+    "valorArrecadado": 88514.42
+  },
+  {
+    "id": "rec-055",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição Previdenciária",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 166950,
+    "valorArrecadado": 178594.89
+  },
+  {
+    "id": "rec-056",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Receitas de Contribuições",
+    "fonte": "Contribuição Previdenciária",
+    "orgao": "Secretaria de Fazenda",
+    "valorPrevisto": 159000,
+    "valorArrecadado": 160584.36
+  },
+  {
+    "id": "rec-057",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Aluguéis de Imóveis Públicos",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 13356,
+    "valorArrecadado": 12793.84
+  },
+  {
+    "id": "rec-058",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Aluguéis de Imóveis Públicos",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 12720,
+    "valorArrecadado": 12673.75
+  },
+  {
+    "id": "rec-059",
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Rendimentos de Aplicação Financeira",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 31164,
+    "valorArrecadado": 31208.85
+  },
+  {
+    "id": "rec-060",
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Receitas Patrimoniais",
+    "fonte": "Rendimentos de Aplicação Financeira",
+    "orgao": "Secretaria de Planejamento",
+    "valorPrevisto": 29680,
+    "valorArrecadado": 30943.74
+  }
+]

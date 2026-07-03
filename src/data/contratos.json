@@ -1,0 +1,217 @@
+[
+  {
+    "id": "ctr-001",
+    "numero": "CT 014/2024",
+    "licitacaoId": "lic-001",
+    "objeto": "Fornecimento de materiais de expediente para as secretarias municipais",
+    "contratado": "Papelaria e Informática Central Ltda",
+    "cnpjContratado": "12.345.678/0001-90",
+    "orgao": "Secretaria de Administração",
+    "valor": 142500,
+    "dataInicio": "2024-03-01",
+    "dataFim": "2025-02-28",
+    "situacao": "Encerrado"
+  },
+  {
+    "id": "ctr-002",
+    "numero": "CT 022/2024",
+    "licitacaoId": "lic-002",
+    "objeto": "Fornecimento de merenda escolar para a rede municipal de ensino",
+    "contratado": "Nutrição Escolar Serrana Ltda",
+    "cnpjContratado": "23.456.789/0001-01",
+    "orgao": "Secretaria de Educação",
+    "valor": 875000,
+    "dataInicio": "2024-04-01",
+    "dataFim": "2025-03-31",
+    "situacao": "Encerrado",
+    "aditivos": [
+      {
+        "numero": "1º Aditivo",
+        "descricao": "Reajuste de valor conforme índice contratual e prorrogação de prazo por 60 dias",
+        "valor": 42000,
+        "data": "2024-12-10"
+      }
+    ]
+  },
+  {
+    "id": "ctr-003",
+    "numero": "CT 031/2024",
+    "licitacaoId": "lic-003",
+    "objeto": "Execução de obra de pavimentação asfáltica no bairro São José",
+    "contratado": "Construtora Rio Caí Ltda",
+    "cnpjContratado": "34.567.890/0001-12",
+    "orgao": "Secretaria de Obras e Viação",
+    "valor": 1230000,
+    "dataInicio": "2024-05-06",
+    "dataFim": "2026-05-05",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "ctr-004",
+    "numero": "CT 038/2024",
+    "licitacaoId": "lic-004",
+    "objeto": "Reforma e ampliação da Unidade Básica de Saúde do Bairro São José",
+    "contratado": "Empresa de Engenharia Taquari Ltda",
+    "cnpjContratado": "45.678.901/0001-23",
+    "orgao": "Secretaria de Saúde",
+    "valor": 475000,
+    "dataInicio": "2024-06-15",
+    "dataFim": "2025-06-14",
+    "situacao": "Aditivado",
+    "aditivos": [
+      {
+        "numero": "1º Aditivo",
+        "descricao": "Inclusão de serviços complementares de instalação elétrica",
+        "valor": 28000,
+        "data": "2025-01-20"
+      },
+      {
+        "numero": "2º Aditivo",
+        "descricao": "Prorrogação de prazo de execução por 90 dias",
+        "valor": 0,
+        "data": "2025-05-10"
+      }
+    ]
+  },
+  {
+    "id": "ctr-005",
+    "numero": "CT 045/2024",
+    "objeto": "Manutenção preventiva e corretiva de máquinas pesadas da frota municipal",
+    "contratado": "Auto Peças e Serviços Capela Ltda",
+    "cnpjContratado": "56.789.012/0001-34",
+    "orgao": "Secretaria de Obras e Viação",
+    "valor": 61500,
+    "dataInicio": "2024-06-10",
+    "dataFim": "2025-06-09",
+    "situacao": "Encerrado"
+  },
+  {
+    "id": "ctr-006",
+    "numero": "CT 052/2024",
+    "licitacaoId": "lic-006",
+    "objeto": "Fornecimento de medicamentos para a rede municipal de saúde",
+    "contratado": "Distribuidora Farmacêutica Vale do Sinos Ltda",
+    "cnpjContratado": "67.890.123/0001-45",
+    "orgao": "Secretaria de Saúde",
+    "valor": 315000,
+    "dataInicio": "2024-08-01",
+    "dataFim": "2025-07-31",
+    "situacao": "Encerrado"
+  },
+  {
+    "id": "ctr-007",
+    "numero": "CT 061/2024",
+    "licitacaoId": "lic-008",
+    "objeto": "Serviços especializados de consultoria contábil e fiscal",
+    "contratado": "Consultoria Contábil Litoral Norte Ltda",
+    "cnpjContratado": "78.901.234/0001-56",
+    "orgao": "Secretaria de Fazenda",
+    "valor": 94000,
+    "dataInicio": "2024-10-01",
+    "dataFim": "2025-09-30",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "ctr-008",
+    "numero": "CT 006/2025",
+    "licitacaoId": "lic-010",
+    "objeto": "Fornecimento de combustíveis para a frota municipal",
+    "contratado": "Posto de Combustíveis Capela Ltda",
+    "cnpjContratado": "89.012.345/0001-67",
+    "orgao": "Secretaria de Administração",
+    "valor": 405000,
+    "dataInicio": "2025-03-01",
+    "dataFim": "2026-02-28",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "ctr-009",
+    "numero": "CT 015/2025",
+    "licitacaoId": "lic-011",
+    "objeto": "Serviços de transporte escolar rural",
+    "contratado": "Transportes Escolares Bom Retiro Ltda",
+    "cnpjContratado": "90.123.456/0001-78",
+    "orgao": "Secretaria de Educação",
+    "valor": 552000,
+    "dataInicio": "2025-04-01",
+    "dataFim": "2026-03-31",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "ctr-010",
+    "numero": "CT 020/2025",
+    "licitacaoId": "lic-012",
+    "objeto": "Execução de obra de ampliação da Escola Municipal Vale Verde",
+    "contratado": "Empresa de Engenharia Taquari Ltda",
+    "cnpjContratado": "45.678.901/0001-23",
+    "orgao": "Secretaria de Educação",
+    "valor": 955000,
+    "dataInicio": "2025-05-20",
+    "dataFim": "2026-11-19",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "ctr-011",
+    "numero": "CT 023/2025",
+    "licitacaoId": "lic-013",
+    "objeto": "Fornecimento de equipamentos de tecnologia da informação para escolas municipais",
+    "contratado": "Papelaria e Informática Central Ltda",
+    "cnpjContratado": "12.345.678/0001-90",
+    "orgao": "Secretaria de Educação",
+    "valor": 182000,
+    "dataInicio": "2025-06-02",
+    "dataFim": "2025-12-01",
+    "situacao": "Encerrado"
+  },
+  {
+    "id": "ctr-012",
+    "numero": "CT 029/2025",
+    "licitacaoId": "lic-014",
+    "objeto": "Construção de praça pública no bairro Vale Verde",
+    "contratado": "Construtora Rio Caí Ltda",
+    "cnpjContratado": "34.567.890/0001-12",
+    "orgao": "Secretaria de Obras e Viação",
+    "valor": 632000,
+    "dataInicio": "2025-07-01",
+    "dataFim": "2026-06-30",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "ctr-013",
+    "numero": "CT 033/2025",
+    "licitacaoId": "lic-016",
+    "objeto": "Serviços de coleta seletiva e destinação de resíduos recicláveis",
+    "contratado": "Serviços de Limpeza Urbana RS Ltda",
+    "cnpjContratado": "01.234.567/0001-89",
+    "orgao": "Secretaria de Agricultura e Meio Ambiente",
+    "valor": 268000,
+    "dataInicio": "2025-09-01",
+    "dataFim": "2026-08-31",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "ctr-014",
+    "numero": "CT 007/2023",
+    "objeto": "Prestação de serviços de manutenção de iluminação pública",
+    "contratado": "Manutenção e Elétrica Total Ltda",
+    "cnpjContratado": "11.222.333/0001-44",
+    "orgao": "Secretaria de Transportes e Serviços Públicos",
+    "valor": 187000,
+    "dataInicio": "2023-11-01",
+    "dataFim": "2024-10-31",
+    "situacao": "Rescindido"
+  },
+  {
+    "id": "ctr-015",
+    "numero": "CT 040/2025",
+    "licitacaoId": "lic-020",
+    "objeto": "Fornecimento de equipamentos odontológicos para unidades de saúde",
+    "contratado": "Clínica Médica Santa Rita Ltda",
+    "cnpjContratado": "22.333.444/0001-55",
+    "orgao": "Secretaria de Saúde",
+    "valor": 154000,
+    "dataInicio": "2025-12-20",
+    "dataFim": "2026-12-19",
+    "situacao": "Vigente"
+  }
+]

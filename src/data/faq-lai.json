@@ -1,0 +1,74 @@
+[
+  {
+    "id": "faq-001",
+    "pergunta": "O que é a Lei de Acesso à Informação (LAI)?",
+    "resposta": "A Lei nº 12.527/2011, conhecida como Lei de Acesso à Informação, regulamenta o direito constitucional de acesso às informações públicas. Ela obriga órgãos e entidades públicas de todos os poderes e esferas a garantir o acesso a informações de interesse coletivo ou geral, exceto aquelas classificadas como sigilosas.",
+    "categoria": "Sobre a LAI"
+  },
+  {
+    "id": "faq-002",
+    "pergunta": "O que são dados abertos?",
+    "resposta": "Dados abertos são informações públicas disponibilizadas em formatos que permitem sua leitura por máquinas, reutilização e redistribuição livre, sem restrições de patente ou mecanismos de controle. O município disponibiliza conjuntos de dados abertos na seção específica do Portal da Transparência.",
+    "categoria": "Sobre a LAI"
+  },
+  {
+    "id": "faq-003",
+    "pergunta": "Quem pode solicitar informações por meio da LAI?",
+    "resposta": "Qualquer pessoa, física ou jurídica, pode solicitar acesso a informações públicas por meio do e-SIC (Sistema Eletrônico do Serviço de Informação ao Cidadão), sem necessidade de indicar os motivos do pedido.",
+    "categoria": "Como solicitar"
+  },
+  {
+    "id": "faq-004",
+    "pergunta": "É preciso justificar o motivo do pedido de informação?",
+    "resposta": "Não. A Lei de Acesso à Informação veda expressamente a exigência de motivação para a solicitação de informações públicas. O cidadão pode apenas informar seus dados de contato e o que deseja saber.",
+    "categoria": "Como solicitar"
+  },
+  {
+    "id": "faq-005",
+    "pergunta": "É cobrada alguma taxa para solicitar informações?",
+    "resposta": "Não. O acesso às informações é gratuito, salvo nos casos em que houver necessidade de reprodução de documentos, situação em que pode ser cobrado o custo dos serviços e materiais necessários, como cópias impressas.",
+    "categoria": "Como solicitar"
+  },
+  {
+    "id": "faq-006",
+    "pergunta": "Como faço para solicitar uma informação ao município?",
+    "resposta": "As solicitações podem ser feitas pelo formulário eletrônico do e-SIC, disponível no Portal da Transparência, ou presencialmente no protocolo geral da Prefeitura, mediante preenchimento de formulário específico.",
+    "categoria": "Como solicitar"
+  },
+  {
+    "id": "faq-007",
+    "pergunta": "Qual é o prazo de resposta para um pedido de acesso à informação?",
+    "resposta": "O órgão público tem até 20 dias corridos para responder ao pedido, contados a partir do registro do protocolo. Esse prazo pode ser prorrogado por mais 10 dias, mediante justificativa expressa comunicada ao solicitante antes do término do prazo inicial.",
+    "categoria": "Prazos e recursos"
+  },
+  {
+    "id": "faq-008",
+    "pergunta": "O que acontece se o pedido de informação for negado?",
+    "resposta": "Caso o pedido seja indeferido, o solicitante pode apresentar recurso no prazo de 10 dias, contado da ciência da decisão, dirigido à autoridade hierarquicamente superior àquela que proferiu a decisão recorrida.",
+    "categoria": "Prazos e recursos"
+  },
+  {
+    "id": "faq-009",
+    "pergunta": "Quais informações podem ser negadas pela administração pública?",
+    "resposta": "Podem ser negadas informações classificadas como sigilosas (por razões de segurança, por exemplo) e informações pessoais protegidas pela Lei Geral de Proteção de Dados, cujo acesso é restrito ao próprio titular ou a terceiros autorizados.",
+    "categoria": "Prazos e recursos"
+  },
+  {
+    "id": "faq-010",
+    "pergunta": "É possível acompanhar o andamento de um pedido feito pelo e-SIC?",
+    "resposta": "Sim. Ao registrar o pedido, o solicitante recebe um número de protocolo que permite consultar a situação da solicitação a qualquer momento diretamente no sistema e-SIC.",
+    "categoria": "Como solicitar"
+  },
+  {
+    "id": "faq-011",
+    "pergunta": "Qual a diferença entre o e-SIC e a Ouvidoria Municipal?",
+    "resposta": "O e-SIC é o canal específico para pedidos de acesso à informação amparados pela Lei 12.527/2011. Já a Ouvidoria Municipal recebe reclamações, sugestões, elogios e denúncias relacionadas à prestação de serviços públicos, com tratamento e prazos próprios.",
+    "categoria": "Sobre a LAI"
+  },
+  {
+    "id": "faq-012",
+    "pergunta": "Posso solicitar informações de forma anônima?",
+    "resposta": "A identificação do solicitante é necessária para viabilizar o envio da resposta, mas a Lei de Acesso à Informação não permite que se exija identificação além do essencial para contato, e veda tratamento diferenciado com base na motivação do pedido.",
+    "categoria": "Como solicitar"
+  }
+]

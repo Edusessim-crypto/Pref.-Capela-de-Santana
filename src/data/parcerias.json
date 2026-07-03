@@ -1,0 +1,116 @@
+[
+  {
+    "id": "par-001",
+    "numero": "CV 003/2024",
+    "tipo": "Convênio",
+    "objeto": "Repasse de recursos estaduais para aquisição de equipamentos de saúde",
+    "parceiro": "Secretaria Estadual da Saúde do Rio Grande do Sul",
+    "orgaoRepassador": "Governo do Estado do Rio Grande do Sul",
+    "valor": 180000,
+    "dataInicio": "2024-02-01",
+    "dataFim": "2025-01-31",
+    "situacao": "Encerrado"
+  },
+  {
+    "id": "par-002",
+    "numero": "TF 001/2024",
+    "tipo": "Termo de Fomento",
+    "objeto": "Apoio a projeto de reforço escolar para estudantes em vulnerabilidade social",
+    "parceiro": "Associação Comunitária Amigos de Capela de Santana",
+    "valor": 45000,
+    "dataInicio": "2024-03-15",
+    "dataFim": "2025-03-14",
+    "situacao": "Encerrado"
+  },
+  {
+    "id": "par-003",
+    "numero": "TC 002/2024",
+    "tipo": "Termo de Colaboração",
+    "objeto": "Execução de atividades socioeducativas para crianças e adolescentes no contraturno escolar",
+    "parceiro": "Associação Beneficente Lar da Criança Feliz",
+    "valor": 68000,
+    "dataInicio": "2024-04-01",
+    "dataFim": "2026-03-31",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "par-004",
+    "numero": "CV 007/2024",
+    "tipo": "Convênio",
+    "objeto": "Repasse de recursos federais para pavimentação de estradas rurais",
+    "parceiro": "Ministério do Desenvolvimento Regional",
+    "orgaoRepassador": "Governo Federal",
+    "valor": 620000,
+    "dataInicio": "2024-06-10",
+    "dataFim": "2026-06-09",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "par-005",
+    "numero": "TP 001/2024",
+    "tipo": "Termo de Parceria",
+    "objeto": "Fomento à agricultura familiar por meio de assistência técnica e distribuição de insumos",
+    "parceiro": "Cooperativa Agropecuária Vale Feliz",
+    "valor": 92000,
+    "dataInicio": "2024-08-01",
+    "dataFim": "2025-07-31",
+    "situacao": "Prestação de contas pendente"
+  },
+  {
+    "id": "par-006",
+    "numero": "TF 004/2025",
+    "tipo": "Termo de Fomento",
+    "objeto": "Apoio a atividades esportivas comunitárias para crianças e jovens do município",
+    "parceiro": "Associação Desportiva Capelense",
+    "valor": 38000,
+    "dataInicio": "2025-02-01",
+    "dataFim": "2026-01-31",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "par-007",
+    "numero": "CV 010/2025",
+    "tipo": "Convênio",
+    "objeto": "Repasse de recursos estaduais para manutenção de estradas vicinais",
+    "parceiro": "Secretaria Estadual de Transportes do Rio Grande do Sul",
+    "orgaoRepassador": "Governo do Estado do Rio Grande do Sul",
+    "valor": 275000,
+    "dataInicio": "2025-04-15",
+    "dataFim": "2026-04-14",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "par-008",
+    "numero": "TC 006/2025",
+    "tipo": "Termo de Colaboração",
+    "objeto": "Atendimento psicossocial a idosos em situação de vulnerabilidade",
+    "parceiro": "Lar de Idosos Recanto da Paz",
+    "valor": 54000,
+    "dataInicio": "2025-05-01",
+    "dataFim": "2026-04-30",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "par-009",
+    "numero": "TP 003/2025",
+    "tipo": "Termo de Parceria",
+    "objeto": "Promoção do turismo rural e valorização de roteiros da colonização açoriana e alemã",
+    "parceiro": "Associação de Turismo Rural Caminhos de Capela",
+    "valor": 31000,
+    "dataInicio": "2025-09-01",
+    "dataFim": "2026-08-31",
+    "situacao": "Vigente"
+  },
+  {
+    "id": "par-010",
+    "numero": "CV 015/2025",
+    "tipo": "Convênio",
+    "objeto": "Repasse de recursos federais do programa de aquisição de alimentos da agricultura familiar",
+    "parceiro": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+    "orgaoRepassador": "Governo Federal",
+    "valor": 118000,
+    "dataInicio": "2025-10-01",
+    "dataFim": "2026-09-30",
+    "situacao": "Vigente"
+  }
+]

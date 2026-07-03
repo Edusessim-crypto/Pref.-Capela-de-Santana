@@ -1,0 +1,138 @@
+[
+  {
+    "id": "orc-ppa-2026-2029",
+    "tipo": "PPA",
+    "titulo": "Plano Plurianual 2026-2029",
+    "ano": 2026,
+    "periodo": "2026-2029",
+    "descricao": "Plano Plurianual que estabelece as diretrizes, objetivos e metas da administração municipal para o quadriênio 2026-2029.",
+    "arquivoUrl": "/documentos/orcamento/ppa-2026-2029.pdf",
+    "publicadoEm": "2025-11-28T10:00:00-03:00"
+  },
+  {
+    "id": "orc-ldo-2025",
+    "tipo": "LDO",
+    "titulo": "Lei de Diretrizes Orçamentárias 2025",
+    "ano": 2025,
+    "descricao": "Lei de Diretrizes Orçamentárias que orienta a elaboração da Lei Orçamentária Anual de 2025, incluindo metas fiscais e prioridades da administração.",
+    "arquivoUrl": "/documentos/orcamento/ldo-2025.pdf",
+    "publicadoEm": "2024-07-15T09:00:00-03:00"
+  },
+  {
+    "id": "orc-ldo-2026",
+    "tipo": "LDO",
+    "titulo": "Lei de Diretrizes Orçamentárias 2026",
+    "ano": 2026,
+    "descricao": "Lei de Diretrizes Orçamentárias que orienta a elaboração da Lei Orçamentária Anual de 2026, incluindo metas fiscais e prioridades da administração.",
+    "arquivoUrl": "/documentos/orcamento/ldo-2026.pdf",
+    "publicadoEm": "2025-07-16T09:00:00-03:00"
+  },
+  {
+    "id": "orc-loa-2025",
+    "tipo": "LOA",
+    "titulo": "Lei Orçamentária Anual 2025",
+    "ano": 2025,
+    "descricao": "Lei Orçamentária Anual que estima a receita e fixa a despesa do município para o exercício de 2025.",
+    "arquivoUrl": "/documentos/orcamento/loa-2025.pdf",
+    "publicadoEm": "2024-12-18T14:00:00-03:00"
+  },
+  {
+    "id": "orc-loa-2026",
+    "tipo": "LOA",
+    "titulo": "Lei Orçamentária Anual 2026",
+    "ano": 2026,
+    "descricao": "Lei Orçamentária Anual que estima a receita e fixa a despesa do município para o exercício de 2026.",
+    "arquivoUrl": "/documentos/orcamento/loa-2026.pdf",
+    "publicadoEm": "2025-12-19T14:00:00-03:00"
+  },
+  {
+    "id": "orc-rreo-2025-1bim",
+    "tipo": "RREO",
+    "titulo": "Relatório Resumido da Execução Orçamentária - 1º Bimestre 2025",
+    "ano": 2025,
+    "periodo": "1º Bimestre",
+    "descricao": "Relatório Resumido da Execução Orçamentária referente ao período de janeiro e fevereiro de 2025.",
+    "arquivoUrl": "/documentos/orcamento/rreo-2025-1bim.pdf",
+    "publicadoEm": "2025-03-28T11:00:00-03:00"
+  },
+  {
+    "id": "orc-rreo-2025-3bim",
+    "tipo": "RREO",
+    "titulo": "Relatório Resumido da Execução Orçamentária - 3º Bimestre 2025",
+    "ano": 2025,
+    "periodo": "3º Bimestre",
+    "descricao": "Relatório Resumido da Execução Orçamentária referente ao período de maio e junho de 2025.",
+    "arquivoUrl": "/documentos/orcamento/rreo-2025-3bim.pdf",
+    "publicadoEm": "2025-07-29T11:00:00-03:00"
+  },
+  {
+    "id": "orc-rreo-2025-5bim",
+    "tipo": "RREO",
+    "titulo": "Relatório Resumido da Execução Orçamentária - 5º Bimestre 2025",
+    "ano": 2025,
+    "periodo": "5º Bimestre",
+    "descricao": "Relatório Resumido da Execução Orçamentária referente ao período de setembro e outubro de 2025.",
+    "arquivoUrl": "/documentos/orcamento/rreo-2025-5bim.pdf",
+    "publicadoEm": "2025-11-28T11:00:00-03:00"
+  },
+  {
+    "id": "orc-rreo-2026-1bim",
+    "tipo": "RREO",
+    "titulo": "Relatório Resumido da Execução Orçamentária - 1º Bimestre 2026",
+    "ano": 2026,
+    "periodo": "1º Bimestre",
+    "descricao": "Relatório Resumido da Execução Orçamentária referente ao período de janeiro e fevereiro de 2026.",
+    "arquivoUrl": "/documentos/orcamento/rreo-2026-1bim.pdf",
+    "publicadoEm": "2026-03-28T11:00:00-03:00"
+  },
+  {
+    "id": "orc-rreo-2026-2bim",
+    "tipo": "RREO",
+    "titulo": "Relatório Resumido da Execução Orçamentária - 2º Bimestre 2026",
+    "ano": 2026,
+    "periodo": "2º Bimestre",
+    "descricao": "Relatório Resumido da Execução Orçamentária referente ao período de março e abril de 2026.",
+    "arquivoUrl": "/documentos/orcamento/rreo-2026-2bim.pdf",
+    "publicadoEm": "2026-05-29T11:00:00-03:00"
+  },
+  {
+    "id": "orc-rreo-2026-3bim",
+    "tipo": "RREO",
+    "titulo": "Relatório Resumido da Execução Orçamentária - 3º Bimestre 2026",
+    "ano": 2026,
+    "periodo": "3º Bimestre",
+    "descricao": "Relatório Resumido da Execução Orçamentária referente ao período de maio e junho de 2026.",
+    "arquivoUrl": "/documentos/orcamento/rreo-2026-3bim.pdf",
+    "publicadoEm": "2026-07-29T11:00:00-03:00"
+  },
+  {
+    "id": "orc-rgf-2025-2quad",
+    "tipo": "RGF",
+    "titulo": "Relatório de Gestão Fiscal - 2º Quadrimestre 2025",
+    "ano": 2025,
+    "periodo": "2º Quadrimestre",
+    "descricao": "Relatório de Gestão Fiscal referente ao período de maio a agosto de 2025, com indicadores de despesa com pessoal e dívida consolidada.",
+    "arquivoUrl": "/documentos/orcamento/rgf-2025-2quad.pdf",
+    "publicadoEm": "2025-09-29T11:00:00-03:00"
+  },
+  {
+    "id": "orc-rgf-2025-3quad",
+    "tipo": "RGF",
+    "titulo": "Relatório de Gestão Fiscal - 3º Quadrimestre 2025",
+    "ano": 2025,
+    "periodo": "3º Quadrimestre",
+    "descricao": "Relatório de Gestão Fiscal referente ao período de setembro a dezembro de 2025, com indicadores de despesa com pessoal e dívida consolidada.",
+    "arquivoUrl": "/documentos/orcamento/rgf-2025-3quad.pdf",
+    "publicadoEm": "2026-01-29T11:00:00-03:00"
+  },
+  {
+    "id": "orc-rgf-2026-1quad",
+    "tipo": "RGF",
+    "titulo": "Relatório de Gestão Fiscal - 1º Quadrimestre 2026",
+    "ano": 2026,
+    "periodo": "1º Quadrimestre",
+    "descricao": "Relatório de Gestão Fiscal referente ao período de janeiro a abril de 2026, com indicadores de despesa com pessoal e dívida consolidada.",
+    "arquivoUrl": "/documentos/orcamento/rgf-2026-1quad.pdf",
+    "publicadoEm": "2026-05-29T11:00:00-03:00"
+  }
+]

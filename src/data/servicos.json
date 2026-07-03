@@ -1,0 +1,263 @@
+[
+  {
+    "id": "srv-001",
+    "slug": "consulta-e-2a-via-de-iptu",
+    "titulo": "Consulta e 2ª via de IPTU",
+    "descricao": "Emissão de segunda via do carnê de IPTU e consulta de débitos referentes ao imóvel.",
+    "categoria": "Tributos",
+    "icone": "receipt",
+    "orgaoResponsavel": "Secretaria de Fazenda",
+    "requisitos": [
+      "Número de inscrição imobiliária ou endereço completo do imóvel",
+      "Documento de identificação do proprietário"
+    ],
+    "comoSolicitar": "Acesse o portal do contribuinte com o número de inscrição imobiliária ou compareça ao balcão de atendimento da Secretaria de Fazenda.",
+    "linkExterno": "https://portaldocontribuinte.capeladesantana.rs.gov.br/iptu",
+    "documentosNecessarios": ["CPF do proprietário", "Comprovante de endereço"],
+    "prazoAtendimento": "Emissão imediata"
+  },
+  {
+    "id": "srv-002",
+    "slug": "emissao-de-nota-fiscal-eletronica",
+    "titulo": "Emissão de Nota Fiscal Eletrônica de Serviços (NFS-e)",
+    "descricao": "Emissão, cancelamento e consulta de notas fiscais eletrônicas de serviços por prestadores cadastrados no município.",
+    "categoria": "Tributos",
+    "icone": "file-text",
+    "orgaoResponsavel": "Secretaria de Fazenda",
+    "requisitos": [
+      "Cadastro Mobiliário ativo no município",
+      "Login e senha de acesso ao sistema de NFS-e"
+    ],
+    "comoSolicitar": "Acesse o sistema de Nota Fiscal Eletrônica no portal da Prefeitura utilizando o login de contribuinte pessoa jurídica.",
+    "linkExterno": "https://nfse.capeladesantana.rs.gov.br",
+    "documentosNecessarios": ["CNPJ", "Inscrição Municipal"],
+    "prazoAtendimento": "Emissão imediata"
+  },
+  {
+    "id": "srv-003",
+    "slug": "certidao-negativa-de-debitos-municipais",
+    "titulo": "Certidão Negativa de Débitos Municipais",
+    "descricao": "Emissão de certidão que comprova a inexistência de débitos tributários junto ao município.",
+    "categoria": "Tributos",
+    "icone": "file-check",
+    "orgaoResponsavel": "Secretaria de Fazenda",
+    "requisitos": [
+      "CPF ou CNPJ do requerente",
+      "Inexistência de débitos em aberto"
+    ],
+    "comoSolicitar": "Solicite pelo portal do contribuinte informando o CPF ou CNPJ, ou compareça presencialmente ao protocolo geral.",
+    "linkExterno": "https://portaldocontribuinte.capeladesantana.rs.gov.br/certidoes",
+    "prazoAtendimento": "Até 2 dias úteis"
+  },
+  {
+    "id": "srv-004",
+    "slug": "certidao-de-tempo-de-contribuicao",
+    "titulo": "Certidão de Tempo de Contribuição",
+    "descricao": "Emissão de certidão para servidores municipais efetivos comprovando tempo de contribuição previdenciária.",
+    "categoria": "Administração",
+    "icone": "badge",
+    "orgaoResponsavel": "Secretaria de Administração",
+    "requisitos": [
+      "Vínculo efetivo ou ex-vínculo com o município",
+      "Documento de identificação"
+    ],
+    "comoSolicitar": "Solicitação deve ser protocolada junto ao setor de Recursos Humanos da Secretaria de Administração.",
+    "documentosNecessarios": ["RG", "CPF", "Número de matrícula funcional"],
+    "prazoAtendimento": "Até 15 dias úteis"
+  },
+  {
+    "id": "srv-005",
+    "slug": "alvara-de-funcionamento",
+    "titulo": "Alvará de Funcionamento",
+    "descricao": "Emissão e renovação de alvará para funcionamento de estabelecimentos comerciais, industriais e de serviços.",
+    "categoria": "Administração",
+    "icone": "store",
+    "orgaoResponsavel": "Secretaria de Fazenda",
+    "requisitos": [
+      "Inscrição no Cadastro Mobiliário",
+      "Regularidade fiscal municipal",
+      "Vistoria do local, quando aplicável"
+    ],
+    "comoSolicitar": "Protocolar requerimento junto ao setor de Cadastro Mobiliário, anexando os documentos do estabelecimento.",
+    "documentosNecessarios": ["CNPJ", "Contrato social", "Comprovante do imóvel"],
+    "prazoAtendimento": "Até 10 dias úteis"
+  },
+  {
+    "id": "srv-006",
+    "slug": "registro-de-manifestacao-na-ouvidoria",
+    "titulo": "Registro de Manifestação na Ouvidoria",
+    "descricao": "Canal para registro de reclamações, sugestões, elogios e denúncias relacionadas aos serviços municipais.",
+    "categoria": "Administração",
+    "icone": "megaphone",
+    "orgaoResponsavel": "Secretaria de Governo e Articulação Institucional",
+    "requisitos": [
+      "Descrição clara da manifestação",
+      "Identificação opcional do manifestante"
+    ],
+    "comoSolicitar": "Registre sua manifestação diretamente pelo canal on-line da Ouvidoria Municipal, disponível 24 horas por dia.",
+    "linkExterno": "https://ouvidoria.capeladesantana.rs.gov.br",
+    "prazoAtendimento": "Resposta em até 20 dias"
+  },
+  {
+    "id": "srv-007",
+    "slug": "matricula-escolar-na-rede-municipal",
+    "titulo": "Matrícula Escolar na Rede Municipal",
+    "descricao": "Solicitação de matrícula e transferência para creches, pré-escolas e anos iniciais do ensino fundamental.",
+    "categoria": "Educação",
+    "icone": "graduation-cap",
+    "orgaoResponsavel": "Secretaria de Educação",
+    "requisitos": [
+      "Idade compatível com a etapa de ensino",
+      "Residência comprovada no município"
+    ],
+    "comoSolicitar": "Compareça à escola municipal mais próxima da residência ou realize a pré-matrícula pelo portal on-line da Secretaria de Educação.",
+    "linkExterno": "https://educacao.capeladesantana.rs.gov.br/matriculas",
+    "documentosNecessarios": ["Certidão de nascimento", "Comprovante de residência", "Cartão de vacinação"],
+    "prazoAtendimento": "Até 5 dias úteis"
+  },
+  {
+    "id": "srv-008",
+    "slug": "agendamento-de-transporte-escolar",
+    "titulo": "Agendamento de Transporte Escolar",
+    "descricao": "Solicitação de vaga no transporte escolar municipal para estudantes da zona rural e urbana.",
+    "categoria": "Educação",
+    "icone": "bus",
+    "orgaoResponsavel": "Secretaria de Educação",
+    "requisitos": [
+      "Matrícula ativa na rede de ensino",
+      "Distância mínima da unidade escolar, conforme critérios do programa"
+    ],
+    "comoSolicitar": "Solicite junto à secretaria da escola onde o estudante está matriculado, informando o endereço de embarque.",
+    "documentosNecessarios": ["Comprovante de matrícula", "Comprovante de residência"],
+    "prazoAtendimento": "Até 7 dias úteis"
+  },
+  {
+    "id": "srv-009",
+    "slug": "agendamento-de-consulta-e-vacinacao",
+    "titulo": "Agendamento de Consulta e Carteira de Vacinação",
+    "descricao": "Agendamento de consultas médicas na atenção básica e emissão da carteira de vacinação.",
+    "categoria": "Saúde",
+    "icone": "syringe",
+    "orgaoResponsavel": "Secretaria de Saúde",
+    "requisitos": [
+      "Cartão SUS ativo",
+      "Cadastro na unidade básica de saúde de referência"
+    ],
+    "comoSolicitar": "Agende pelo telefone da unidade básica de saúde mais próxima ou compareça presencialmente para agendamento.",
+    "documentosNecessarios": ["Cartão SUS", "Documento de identidade"],
+    "prazoAtendimento": "Conforme disponibilidade de agenda"
+  },
+  {
+    "id": "srv-010",
+    "slug": "solicitacao-de-itbi",
+    "titulo": "Solicitação de ITBI (Imposto de Transmissão de Bens Imóveis)",
+    "descricao": "Cálculo e emissão de guia para pagamento do imposto incidente sobre transmissão de imóveis.",
+    "categoria": "Tributos",
+    "icone": "home",
+    "orgaoResponsavel": "Secretaria de Fazenda",
+    "requisitos": [
+      "Escritura ou contrato de compra e venda do imóvel",
+      "Valor de avaliação do imóvel"
+    ],
+    "comoSolicitar": "Solicite o cálculo pelo portal do contribuinte ou presencialmente, informando os dados da transação imobiliária.",
+    "linkExterno": "https://portaldocontribuinte.capeladesantana.rs.gov.br/itbi",
+    "documentosNecessarios": ["Escritura ou contrato", "CPF das partes envolvidas"],
+    "prazoAtendimento": "Até 3 dias úteis"
+  },
+  {
+    "id": "srv-011",
+    "slug": "protocolo-geral-de-requerimentos",
+    "titulo": "Protocolo Geral de Requerimentos",
+    "descricao": "Abertura de processos administrativos e protocolo de requerimentos diversos junto à Prefeitura.",
+    "categoria": "Administração",
+    "icone": "inbox",
+    "orgaoResponsavel": "Secretaria de Administração",
+    "requisitos": [
+      "Documento de identificação do requerente",
+      "Descrição do assunto do requerimento"
+    ],
+    "comoSolicitar": "Compareça ao balcão de protocolo geral, no prédio da Prefeitura, ou utilize o protocolo on-line disponível no portal.",
+    "linkExterno": "https://protocolo.capeladesantana.rs.gov.br",
+    "prazoAtendimento": "Emissão de número de protocolo imediata"
+  },
+  {
+    "id": "srv-012",
+    "slug": "licenciamento-ambiental-simplificado",
+    "titulo": "Licenciamento Ambiental Simplificado",
+    "descricao": "Emissão de licença ambiental simplificada para atividades de baixo impacto ambiental no município.",
+    "categoria": "Meio Ambiente",
+    "icone": "leaf",
+    "orgaoResponsavel": "Secretaria de Agricultura e Meio Ambiente",
+    "requisitos": [
+      "Atividade enquadrada como baixo impacto ambiental",
+      "Regularidade fundiária do imóvel"
+    ],
+    "comoSolicitar": "Protocole o requerimento junto ao setor de Meio Ambiente, anexando croqui do imóvel e descrição da atividade.",
+    "documentosNecessarios": ["Croqui de localização", "Comprovante de propriedade ou posse"],
+    "prazoAtendimento": "Até 30 dias úteis"
+  },
+  {
+    "id": "srv-013",
+    "slug": "cadastro-de-produtor-rural",
+    "titulo": "Cadastro de Produtor Rural",
+    "descricao": "Inclusão e atualização de dados no cadastro municipal de produtores rurais para acesso a programas de fomento.",
+    "categoria": "Meio Ambiente",
+    "icone": "tractor",
+    "orgaoResponsavel": "Secretaria de Agricultura e Meio Ambiente",
+    "requisitos": [
+      "Exploração de atividade rural no município",
+      "Documento de posse ou propriedade da área"
+    ],
+    "comoSolicitar": "Compareça ao escritório da Secretaria de Agricultura e Meio Ambiente com os documentos da propriedade rural.",
+    "documentosNecessarios": ["CPF", "Documento da propriedade", "Declaração de aptidão ao Pronaf, quando houver"],
+    "prazoAtendimento": "Até 5 dias úteis"
+  },
+  {
+    "id": "srv-014",
+    "slug": "agendamento-de-poda-e-limpeza-urbana",
+    "titulo": "Agendamento de Poda de Árvores e Limpeza Urbana",
+    "descricao": "Solicitação de poda de árvores em vias públicas e limpeza de terrenos e logradouros.",
+    "categoria": "Obras",
+    "icone": "scissors",
+    "orgaoResponsavel": "Secretaria de Obras e Viação",
+    "requisitos": [
+      "Árvore ou área localizada em via ou logradouro público",
+      "Endereço exato do local"
+    ],
+    "comoSolicitar": "Solicite pelo canal de agendamento on-line ou pelo telefone da Secretaria de Obras e Viação.",
+    "linkExterno": "https://servicos.capeladesantana.rs.gov.br/poda",
+    "prazoAtendimento": "Até 15 dias úteis"
+  },
+  {
+    "id": "srv-015",
+    "slug": "auxilio-funeral-e-beneficios-eventuais",
+    "titulo": "Auxílio Funeral e Benefícios Eventuais",
+    "descricao": "Concessão de benefícios eventuais a famílias em situação de vulnerabilidade social, incluindo auxílio funeral e cesta básica.",
+    "categoria": "Assistência Social",
+    "icone": "heart-handshake",
+    "orgaoResponsavel": "Secretaria de Assistência Social",
+    "requisitos": [
+      "Situação de vulnerabilidade social comprovada",
+      "Cadastro Único atualizado, quando aplicável"
+    ],
+    "comoSolicitar": "Procure o CRAS mais próximo da residência para avaliação socioeconômica e encaminhamento do benefício.",
+    "documentosNecessarios": ["CPF", "Comprovante de residência", "Comprovante de renda familiar"],
+    "prazoAtendimento": "Conforme avaliação técnica, até 5 dias úteis"
+  },
+  {
+    "id": "srv-016",
+    "slug": "reserva-de-espacos-culturais-e-esportivos",
+    "titulo": "Reserva de Espaços Culturais e Esportivos",
+    "descricao": "Solicitação de uso de ginásios, quadras, salões comunitários e espaços culturais municipais para eventos.",
+    "categoria": "Cultura e Esporte",
+    "icone": "calendar-check",
+    "orgaoResponsavel": "Secretaria de Cultura, Esporte e Turismo",
+    "requisitos": [
+      "Disponibilidade de agenda do espaço solicitado",
+      "Identificação do responsável pelo evento"
+    ],
+    "comoSolicitar": "Solicite a reserva junto à Secretaria de Cultura, Esporte e Turismo com no mínimo 10 dias de antecedência.",
+    "documentosNecessarios": ["CPF do responsável", "Descrição do evento"],
+    "prazoAtendimento": "Até 5 dias úteis"
+  }
+]

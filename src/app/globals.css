@@ -1,0 +1,182 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #14213a;
+
+  /* Institutional palette derived from the municipal brasão */
+  --color-primary-50: #eef4fc;
+  --color-primary-100: #d7e6f7;
+  --color-primary-200: #b3d0ef;
+  --color-primary-300: #83b2e3;
+  --color-primary-400: #4f8fd4;
+  --color-primary-500: #2c6fc0;
+  --color-primary-600: #1e56a0;
+  --color-primary-700: #1a4681;
+  --color-primary-800: #163a6a;
+  --color-primary-900: #122f56;
+  --color-primary-950: #0b1d38;
+
+  --color-accent-50: #fff8ec;
+  --color-accent-100: #ffedc7;
+  --color-accent-200: #ffd98a;
+  --color-accent-300: #ffc04d;
+  --color-accent-400: #ffab24;
+  --color-accent-500: #f78e08;
+  --color-accent-600: #d96b04;
+  --color-accent-700: #b34d06;
+  --color-accent-800: #8f3b0c;
+  --color-accent-900: #74310e;
+
+  --color-success-500: #1f9d55;
+  --color-success-700: #15723f;
+  --color-warning-500: #d97706;
+  --color-warning-700: #92400e;
+  --color-danger-500: #dc2626;
+  --color-danger-700: #991b1b;
+
+  --color-neutral-0: #ffffff;
+  --color-neutral-50: #f7f8fa;
+  --color-neutral-100: #eef0f4;
+  --color-neutral-200: #dfe3ea;
+  --color-neutral-300: #c3cad6;
+  --color-neutral-400: #98a3b8;
+  --color-neutral-500: #6c7890;
+  --color-neutral-600: #4f5972;
+  --color-neutral-700: #384158;
+  --color-neutral-800: #262e42;
+  --color-neutral-900: #161c2b;
+  --color-neutral-950: #0c0f18;
+
+  --shadow-soft: 0 1px 2px 0 rgb(15 32 66 / 0.04), 0 2px 8px -2px rgb(15 32 66 / 0.08);
+  --shadow-soft-lg: 0 4px 16px -4px rgb(15 32 66 / 0.12), 0 12px 32px -8px rgb(15 32 66 / 0.14);
+
+  --font-size-base: 1rem;
+}
+
+html[data-font-scale="lg"] {
+  --font-size-base: 1.125rem;
+}
+
+html[data-font-scale="xl"] {
+  --font-size-base: 1.25rem;
+}
+
+html[data-contrast="high"] {
+  --background: #000000;
+  --foreground: #ffffff;
+  --color-primary-500: #7fb2ff;
+  --color-primary-600: #a6c9ff;
+  --color-accent-500: #ffd23d;
+  --color-neutral-100: #1a1a1a;
+  --color-neutral-200: #262626;
+  --color-neutral-300: #333333;
+  --color-neutral-500: #cccccc;
+  --color-neutral-700: #e6e6e6;
+  --color-neutral-900: #ffffff;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-primary-50: var(--color-primary-50);
+  --color-primary-100: var(--color-primary-100);
+  --color-primary-200: var(--color-primary-200);
+  --color-primary-300: var(--color-primary-300);
+  --color-primary-400: var(--color-primary-400);
+  --color-primary-500: var(--color-primary-500);
+  --color-primary-600: var(--color-primary-600);
+  --color-primary-700: var(--color-primary-700);
+  --color-primary-800: var(--color-primary-800);
+  --color-primary-900: var(--color-primary-900);
+  --color-primary-950: var(--color-primary-950);
+
+  --color-accent-50: var(--color-accent-50);
+  --color-accent-100: var(--color-accent-100);
+  --color-accent-200: var(--color-accent-200);
+  --color-accent-300: var(--color-accent-300);
+  --color-accent-400: var(--color-accent-400);
+  --color-accent-500: var(--color-accent-500);
+  --color-accent-600: var(--color-accent-600);
+  --color-accent-700: var(--color-accent-700);
+  --color-accent-800: var(--color-accent-800);
+  --color-accent-900: var(--color-accent-900);
+
+  --color-success-500: var(--color-success-500);
+  --color-success-700: var(--color-success-700);
+  --color-warning-500: var(--color-warning-500);
+  --color-warning-700: var(--color-warning-700);
+  --color-danger-500: var(--color-danger-500);
+  --color-danger-700: var(--color-danger-700);
+
+  --color-neutral-0: var(--color-neutral-0);
+  --color-neutral-50: var(--color-neutral-50);
+  --color-neutral-100: var(--color-neutral-100);
+  --color-neutral-200: var(--color-neutral-200);
+  --color-neutral-300: var(--color-neutral-300);
+  --color-neutral-400: var(--color-neutral-400);
+  --color-neutral-500: var(--color-neutral-500);
+  --color-neutral-600: var(--color-neutral-600);
+  --color-neutral-700: var(--color-neutral-700);
+  --color-neutral-800: var(--color-neutral-800);
+  --color-neutral-900: var(--color-neutral-900);
+  --color-neutral-950: var(--color-neutral-950);
+
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-source-serif);
+
+  --shadow-soft: var(--shadow-soft);
+  --shadow-soft-lg: var(--shadow-soft-lg);
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    scroll-behavior: auto;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+html,
+body {
+  font-size: var(--font-size-base);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+.skip-link {
+  position: absolute;
+  left: 0.5rem;
+  top: -3rem;
+  z-index: 100;
+  background: var(--color-primary-900);
+  color: #ffffff;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  transition: top 0.15s ease;
+}
+
+.skip-link:focus {
+  top: 0.5rem;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-accent-500);
+  outline-offset: 2px;
+}
+
+.leaflet-container {
+  font-family: var(--font-sans), system-ui, sans-serif;
+  z-index: 0;
+}

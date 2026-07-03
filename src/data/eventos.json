@@ -1,0 +1,113 @@
+[
+  {
+    "id": "evt-001",
+    "titulo": "Feira do Produtor Rural - Edição de Inverno",
+    "descricao": "Feira com produtos coloniais, hortaliças, artesanato local e distribuição de mudas nativas.",
+    "local": "Praça Central, Centro",
+    "dataInicio": "2026-07-05T08:00:00-03:00",
+    "dataFim": "2026-07-05T13:00:00-03:00",
+    "horario": "08h às 13h",
+    "categoria": "Agricultura",
+    "imagem": "/images/eventos/feira-produtor-rural.jpg",
+    "gratuito": true
+  },
+  {
+    "id": "evt-002",
+    "titulo": "Audiência Pública - Revisão do Plano Diretor",
+    "descricao": "Discussão pública sobre a revisão do Plano Diretor de Desenvolvimento Urbano e Ambiental do município.",
+    "local": "Câmara Municipal de Vereadores",
+    "dataInicio": "2026-07-11T19:00:00-03:00",
+    "horario": "19h às 21h",
+    "categoria": "Audiência Pública",
+    "gratuito": true
+  },
+  {
+    "id": "evt-003",
+    "titulo": "Campanha de Vacinação contra a Influenza - Reforço",
+    "descricao": "Etapa de reforço da campanha municipal de vacinação contra a gripe para grupos prioritários.",
+    "local": "Unidades Básicas de Saúde do município",
+    "dataInicio": "2026-07-14T08:00:00-03:00",
+    "dataFim": "2026-07-18T17:00:00-03:00",
+    "horario": "08h às 17h",
+    "categoria": "Saúde",
+    "imagem": "/images/eventos/campanha-vacinacao.jpg",
+    "gratuito": true
+  },
+  {
+    "id": "evt-004",
+    "titulo": "Festival de Inverno de Capela de Santana",
+    "descricao": "Shows musicais, feira de artesanato, gastronomia típica e oficinas culturais para toda a família.",
+    "local": "Praça Central, Centro",
+    "dataInicio": "2026-07-25T15:00:00-03:00",
+    "dataFim": "2026-07-26T22:00:00-03:00",
+    "horario": "15h às 22h",
+    "categoria": "Cultura",
+    "imagem": "/images/eventos/festival-inverno.jpg",
+    "gratuito": true
+  },
+  {
+    "id": "evt-005",
+    "titulo": "Copa Municipal de Futebol Suíço - Final",
+    "descricao": "Grande final da Copa Municipal de Futebol Suíço 2026, reunindo as duas melhores equipes da competição.",
+    "local": "Estádio Municipal",
+    "dataInicio": "2026-08-02T14:00:00-03:00",
+    "horario": "14h às 17h",
+    "categoria": "Esporte",
+    "gratuito": true
+  },
+  {
+    "id": "evt-006",
+    "titulo": "Semana do Agricultor",
+    "descricao": "Palestras técnicas, dia de campo e distribuição de insumos para pequenos produtores rurais cadastrados.",
+    "local": "Sede da Secretaria de Agricultura e Meio Ambiente",
+    "dataInicio": "2026-08-10T08:30:00-03:00",
+    "dataFim": "2026-08-14T17:00:00-03:00",
+    "horario": "08h30 às 17h",
+    "categoria": "Agricultura",
+    "gratuito": true
+  },
+  {
+    "id": "evt-007",
+    "titulo": "Audiência Pública - Prestação de Contas do 2º Quadrimestre",
+    "descricao": "Apresentação do Relatório de Gestão Fiscal e prestação de contas do 2º quadrimestre de 2026.",
+    "local": "Câmara Municipal de Vereadores",
+    "dataInicio": "2026-08-20T18:30:00-03:00",
+    "horario": "18h30 às 20h",
+    "categoria": "Audiência Pública",
+    "gratuito": true
+  },
+  {
+    "id": "evt-008",
+    "titulo": "Festa Municipal do Colono e do Motorista",
+    "descricao": "Tradicional festa municipal com missa campal, desfile de tratores, bênção de veículos e almoço comunitário.",
+    "local": "Parque de Eventos Municipal",
+    "dataInicio": "2026-08-23T09:00:00-03:00",
+    "dataFim": "2026-08-23T20:00:00-03:00",
+    "horario": "09h às 20h",
+    "categoria": "Cultura",
+    "imagem": "/images/eventos/festa-colono-motorista.jpg",
+    "gratuito": false
+  },
+  {
+    "id": "evt-009",
+    "titulo": "Mostra Cultural das Escolas Municipais",
+    "descricao": "Exposição de trabalhos, apresentações artísticas e feira de ciências produzidos por estudantes da rede municipal.",
+    "local": "Ginásio Municipal de Esportes",
+    "dataInicio": "2026-08-29T13:30:00-03:00",
+    "dataFim": "2026-08-29T18:00:00-03:00",
+    "horario": "13h30 às 18h",
+    "categoria": "Educação",
+    "gratuito": true
+  },
+  {
+    "id": "evt-010",
+    "titulo": "Corrida Rústica Municipal",
+    "descricao": "Corrida de rua com percursos de 5 km e 10 km, aberta a atletas amadores de todas as idades.",
+    "local": "Largada na Praça Central",
+    "dataInicio": "2026-08-30T07:30:00-03:00",
+    "horario": "07h30 às 11h",
+    "categoria": "Esporte",
+    "imagem": "/images/eventos/corrida-rustica.jpg",
+    "gratuito": false
+  }
+]
